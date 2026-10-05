@@ -5,3 +5,8 @@ coverage/
 .DS_Store
 *.log
 feed-report.json
+
+.agents/
+.claude/
+.codex/
+.impeccable/
